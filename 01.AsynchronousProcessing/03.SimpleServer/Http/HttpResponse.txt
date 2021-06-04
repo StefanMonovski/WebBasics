@@ -1,0 +1,6 @@
+﻿HTTP/1.1 200 OK
+Server: DemoServer 2021
+Content-Type: text/html; charset=utf-8
+Content-Length: 29
+
+<h1>Hello from the server<h1>
