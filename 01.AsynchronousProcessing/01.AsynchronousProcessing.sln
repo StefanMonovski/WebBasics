@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SimpleServer", "03.Simpl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SIS.WebServer", "04.SIS.WebServer\04.SIS.WebServer.csproj", "{2EFB5BA2-AA9C-4656-B042-261D59C6E851}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SIS.Demo", "05.SIS.Demo\05.SIS.Demo.csproj", "{1356663B-0C0A-48DB-A645-11D41CE737D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2EFB5BA2-AA9C-4656-B042-261D59C6E851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EFB5BA2-AA9C-4656-B042-261D59C6E851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EFB5BA2-AA9C-4656-B042-261D59C6E851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1356663B-0C0A-48DB-A645-11D41CE737D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356663B-0C0A-48DB-A645-11D41CE737D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1356663B-0C0A-48DB-A645-11D41CE737D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1356663B-0C0A-48DB-A645-11D41CE737D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
